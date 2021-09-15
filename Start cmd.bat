@@ -1,0 +1,2 @@
+Cd %patch%
+start cmd
